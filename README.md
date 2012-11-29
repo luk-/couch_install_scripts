@@ -12,3 +12,8 @@ Usage:
 * `chmod +x install_couch_debian6.sh`
 * `./install_couch_debian6.sh`
 * Relax.
+
+
+You may want to do this in a `screen` if you're doing this over ssh.
+* `apt-get update; apt-get install screen`
+* `screen`
