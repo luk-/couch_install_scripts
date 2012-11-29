@@ -21,10 +21,10 @@ cd /usr/local/src/apache-couchdb-1.2.0
 ./configure
 
 echo -e 'Building couchdb...\n'
-make
+/usr/bin/make
 
 echo -e 'Installing couchdb...\n'
-make install
+/usr/bin/make install
 
 echo -e 'Creating user and setting up couchdb permissions...\n'
 /usr/sbin/adduser --gecos --disabled-login --disabled-password --no-create-home couchdb
