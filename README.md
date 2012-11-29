@@ -14,6 +14,6 @@ Usage:
 * Relax.
 
 
-You may want to do this in a `screen` if you're doing this over ssh.
+You may want to do this in a `screen` if you're doing it over ssh.
 * `apt-get update; apt-get install screen`
 * `screen`
