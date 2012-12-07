@@ -2,7 +2,11 @@ CouchDB Installation Scripts
 ===========================
 
 Intended to be a collection of no hassle scripts for installing CouchDB from source.
-These scripts have been tested on fresh installs of x86_64 the following OS releases.
+
+These scripts have been tested on fresh installs of x86_64 the following OS releases:
+
+* Debian Squeeze / 6.0
+* Ubuntu 10.04 LTS
 
 ###Current scripts
 
@@ -24,11 +28,9 @@ Usage:
 * `./install_couch_ubuntu10.04.sh`
 * Relax.
 
-<small>
 Note: there are many public [CouchDB related PPAs](https://launchpad.net/ubuntu/+ppas?name_filter=couchdb)
-that you may be interested in using *instead* of building from source. However, 
+for Ubuntu that you may be interested in using *instead* of building from source. However, 
 I have not personally tested these and cannot vouch for them.
-</small>
 
 
 ##### Addendum
