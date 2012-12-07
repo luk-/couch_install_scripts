@@ -3,7 +3,7 @@ CouchDB Installation Scripts
 
 Intended to be a collection of no hassle scripts for installing CouchDB from source.
 
-These scripts have been tested on fresh installs of x86_64 the following OS releases:
+These scripts have been tested on fresh x86_64 architecture installs of the following OS releases:
 
 * Debian Squeeze / 6.0
 * Ubuntu 10.04 LTS
